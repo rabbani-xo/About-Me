@@ -1,6 +1,6 @@
-![I am a Mechatronics Engineering Student.](https://media.licdn.com/dms/image/v2/D4E16AQFjW3oOySfusQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1692910996930?e=1771459200&v=beta&t=c04HjHv0TdWIyxVs1WhFOB3do_80ZtEW3IzmB2t-uQM)
+https://media.licdn.com/dms/image/v2/D4E16AQFjW3oOySfusQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1692910996930?e=1781136000&v=beta&t=JuFIGfX4bRGVmrStveZ5sR1KwTahMId5vPNei9kPIRs
 
-### Hi there 👋, my name is Md Golam Rabbani
+## Hi there 👋, my name is Md Golam Rabbani
 #### I am a Mechatronics Engineering Student.
 
 I’m a Mechatronics Engineering student with a strong interest in robotics, automation and intelligent systems. My academic background combines mechanical, electrical and computer engineering ---allowing me to design and develop efficient electromechanical systems.
